@@ -20,11 +20,11 @@ PythonStock V1 是基于Python的pandas，tushare，bokeh，tornado，stockstats
 
 运行图
 
-![stock-show-01](![Rf4JeY](https://upiclw.oss-cn-beijing.aliyuncs.com/uPic/Rf4JeY.jpg))
+![stock-show-01](https://upiclw.oss-cn-beijing.aliyuncs.com/uPic/Rf4JeY.jpg)
  
 bokeh 绘图指标数据：
  
-![diff-n-bokeh](![ZEIAKt](https://upiclw.oss-cn-beijing.aliyuncs.com/uPic/ZEIAKt.jpg))
+![diff-n-bokeh](https://upiclw.oss-cn-beijing.aliyuncs.com/uPic/ZEIAKt.jpg)
  
 
 ## 依靠 3 个指标进行股票数据计算
