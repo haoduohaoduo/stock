@@ -67,6 +67,16 @@ bokeh 绘图指标数据：
 
 （数据表 guess_indicators_daily）： 
 
+<style>
+table th:first-of-type {
+    width: 40%;
+}
+table th:nth-of-type(2) {
+    width: 60%;
+}
+
+}
+</style>
 
 | 计算指标           | 说明 |
 |------------------------ |------------------------------------------|
