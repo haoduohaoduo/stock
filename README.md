@@ -67,16 +67,6 @@ bokeh 绘图指标数据：
 
 （数据表 guess_indicators_daily）： 
 
---
-<style>
-.foo table .first{
-width:40%
-}
-.foo table .second{
-width:60%
-}
-</style>
-<div class="foo">
 
 | 计算指标 <div id="first">           | 说明 <div id="second">|
 | ------------------------ |------------------------------------------ |
@@ -98,7 +88,6 @@ width:60%
 | 16. [TRIX](http://wiki.mbalib.com/wiki/TRIX) ，MATRIX指标     |    TRIX指标又叫三重指数平滑移动平均指标（Triple Exponentially Smoothed Average） |
 | 17. [VR，MAVR指标](http://wiki.mbalib.com/wiki/%E6%88%90%E4%BA%A4%E9%87%8F%E6%AF%94%E7%8E%87)     |    成交量比率（Volumn Ratio，VR）（简称VR），是一项通过分析股价上升日成交额（或成交量，下同）与股价下降日成交额比值， 从而掌握市场买卖气势的中期技术指标。 |
 
-</div>
 
 ## 5. 使用方法一（依赖docker）
 
